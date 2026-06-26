@@ -1,9 +1,3 @@
 # GitHub_Assignment
-<h4>Skills</h4>
-<br>
-<uol>CSS
-HTML
-C++
-Java
-</uol>
-
+<h4>  Interests</h4>
+Web Developments, Programming, Networking
